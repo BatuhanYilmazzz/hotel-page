@@ -15,9 +15,9 @@ This project is part of css learning series project and practicing on SCSS.This 
 > Clone the repository to your local machine
 
 ```sh
-$ https://batuhanyilmazzz.github.io/HotelPage/.
+$ https://batuhanyilmazzz.github.io/hotel-page/.
 ```
-or just open from https://batuhanyilmazzz.github.io/HotelPage/.
+or just open from https://batuhanyilmazzz.github.io/hotel-page/.
 
 
 ## Author
